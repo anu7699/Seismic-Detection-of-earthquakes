@@ -1,0 +1,5 @@
+This folder contains 2 jupyter notebooks:
+1. SpaceAppsFinal.ipynb - This notebook contains the implementation of the optimized AIC technique which performed best out of all the techniques we experimented with.
+2. Evaluation Seismic Detection Test Data.ipynb - This notebook contains the code for evaluation of the above technique on each test .mseed file along with its corresponding obtained plots indicating the predicted p-wave arrival time.
+
+The obtained results on test files are cataloged in the catalog files added in this folder.
